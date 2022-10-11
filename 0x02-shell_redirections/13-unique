@@ -1,6 +1,2 @@
-#!bin/bash
-sort |uniq -u
-C-x
-C-s
-C-x
-C-c
+#!/bin/bash
+sort | uniq -u
